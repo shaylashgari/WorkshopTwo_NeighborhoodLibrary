@@ -16,6 +16,7 @@ public class Book {
         this.title = title;
         this.isCheckedOut = false;
         this.checkedOutTo = "";
+        // here here
 
     }
 // click right to get all the getters and setters for all variables
